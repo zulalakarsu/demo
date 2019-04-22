@@ -1,1 +1,0 @@
-This is a basic readme file created by zulal
